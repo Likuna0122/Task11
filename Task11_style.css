@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.box11{
+    text-align: center;
+    width: 400px;
+    height: 600px;
+    margin: 0% auto;
+    background: #fafafa;
+    border: solid 1px #dcdcdc;
+    margin-top: 75px;
+}
+.cool1{
+    width: 159px;
+    height: 146px;
+    left: 640px;
+    top: 438px;
+    margin-top: 35px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+}
+.h_one{
+    font-weight: 700;
+    font-size: 30px;
+}
+.p_one{
+    font-weight: 400px;
+    color: #000000;
+    left: 482px;
+    top: 750px;
+}
